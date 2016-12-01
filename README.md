@@ -105,6 +105,6 @@ Recommended: Can you link all the pages together? Create a `<nav>` element on ev
 
 ### Deliverables
 
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
+1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub.
 
 1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website.
