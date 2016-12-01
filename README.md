@@ -41,7 +41,7 @@ Fork this repository to your GitHub account, then clone your GitHub copy onto yo
 
 + Hmm... What is the "?" doing in the URL? How did it get there? Try removing it.  
 
-Stretch: Instead of just stopping the forms, make it so that clicking the submit buttons adds an embeds youtube video to the page.
+Stretch: Instead of just stopping the forms, make it so that clicking the submit buttons adds an embedded youtube video to the page.
 
 
 <hr>
@@ -87,7 +87,7 @@ The next time they hit the spacebar again, record their new "end" time.
 
 Then, calculate the time difference, and display it on the page.
 
-As a bonus, update the display to show the time as the clock is running. 
+Stretch: update the display to show the time while the clock is running. 
 
 
 
