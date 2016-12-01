@@ -83,11 +83,11 @@ Stretch: In addition to listing the phrase I clicked, can you include a timestam
 
 When the user hits spacebar, record their "start" time.
 
-After that, whenever they hit the spacebar again, record their new "end" time.  
+The next time they hit the spacebar again, record their new "end" time.  
 
-Then, calculate the total time, and display it on the page.
+Then, calculate the time difference, and display it on the page.
 
-(The page should show the total time since the first spacebar press.)
+As a bonus, update the display to show the time as the clock is running. 
 
 
 
