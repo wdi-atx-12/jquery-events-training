@@ -94,7 +94,7 @@ Stretch: update the display to show the time while the clock is running.
 <hr>
 
 
-###Wrap it Up
+### Wrap it Up
 
 Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
 
