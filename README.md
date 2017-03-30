@@ -1,3 +1,11 @@
+<!--
+Creator: SF WDI Team - Nathan
+Last Edited By: Brianna
+Location: SF
+-->
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # Training: DOM Events & jQuery
 
 In this training, you'll practice with some of the most common DOM events in jQuery:
@@ -7,6 +15,7 @@ In this training, you'll practice with some of the most common DOM events in jQu
 - change
 - click
 - keypress
+
 
 The `.ready` method is specific to jQuery and uses a few native JavaScript event types internally. The other events listed are all native JavaScript events, and we recommend you use them with jQuery's `.on`.
 
@@ -94,17 +103,10 @@ Stretch: update the display to show the time while the clock is running.
 <hr>
 
 
-###Wrap it Up
+### Wrap it Up
 
 Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
 
 
 
 <hr>
-
-
-### Deliverables
-
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub.
-
-1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website.
