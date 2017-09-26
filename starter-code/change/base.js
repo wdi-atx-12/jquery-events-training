@@ -13,10 +13,11 @@ $(document).ready(function(){
     if (right === undefined) {
       right = 0;
     }
-    
     console.log(right);
+
     var totalOutput = left + right;
     $('#total').val(totalOutput);
+    console.log('i did a math thing');
   })
 
 })
