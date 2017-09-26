@@ -10,6 +10,9 @@ $(document).ready(function(){
     if (event.keyCode == 32){
       // do something
       console.log('user pressed the spacebar');
+      // trigger start
+      // if it happens again
+        // trigger end
     } else {
       console.log('user pressed some other button');
     }
