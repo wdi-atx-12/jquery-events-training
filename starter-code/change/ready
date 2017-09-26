@@ -1,0 +1,8 @@
+
+$(document).ready(function() {
+  $('h1').text('Go!');
+  if(('h1').text() === 'Go!') {
+    console.log('Go!');
+    alert('Page says Go!');
+  }
+});

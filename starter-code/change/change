@@ -1,0 +1,10 @@
+$(document).ready(function() {
+  $(`input.add`).on(`change`, function(evt) {
+    var left = $(`input#left`).val();
+    var right = $(`input#right`).val() //.val grabs the value of the right input.
+    var parseLeft = parseInt(left);
+    var parseRight = parseInt(right);
+    var sum = parseLeft + parseRight; //So this adds the strings which are now integers together
+    $(`#total`).val(sum);
+  });
+});
