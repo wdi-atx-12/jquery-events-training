@@ -6,4 +6,9 @@ $(document).ready(function(){
 
   $("#time").text( Date.now() );
 
+// prevents forms from submitting
+  $("form").submit(function(event){
+                event.preventDefault();
+            });
+
 })
