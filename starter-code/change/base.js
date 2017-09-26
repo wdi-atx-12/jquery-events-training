@@ -2,7 +2,7 @@ console.log("Sanity Check: JS is working!");
 
 $(document).ready(function(){
 
-    $( "#right, #left" ).change(function() { //when the right field is changed fire the event
+    $( "#right, #left" ).change(function() { //when the right or left field is changed fire the event
 
           var field1 = $("#left").val();
           var field2 = $("#right").val();
