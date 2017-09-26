@@ -6,4 +6,9 @@ $(document).ready(function(){
 
   $("#time").text( Date.now() );
 
-})
+});
+
+$('form').submit(function(e) {
+  e.preventDefault();
+  $('body').append(rick_roll_youtube_embed_code);
+});
